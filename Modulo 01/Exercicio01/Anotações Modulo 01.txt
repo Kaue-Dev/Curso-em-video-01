@@ -1,0 +1,29 @@
+-- ANOTAÇÕES MÓDULO 01 --
+
+Repositórios Públicos: 
+github.com/gustavoguanabara
+gustavoguanabara.github.io
+
+Livros:
+HTML5 Entendendo e Executando (Mark Pilgrim)
+HTML5 e CSS3 (Elizabeth Castro e Bruce Hyslop)
+HTML & CSS Use a cabeça (Jon Duckett)
+Crie seu próprio site (Nate Cooper e Kim Gee)
+Fundamentos de HTML 5 e CSS3 (Mauricio Samy Silva)
+
+Tabela de representação:
+código multibyte UTF-8
+
+HTML é uma linguagem focada em conteúdo (textos, imagens, vídeos, tabelas e etc)
+CSS são os atrativos visuais do site, focado em design (cores, sombras, tamanho, posicionamente e etc)
+JS é a interação do usuario (menus, animações, popups, validações e etc)
+
+Site de emojis:
+emojipedia.org
+
+Site para favicons:
+iconarchive.com
+favicon.io
+
+Site links para Downloads:
+www.iana.org/assignments/media-types.xhmtl
